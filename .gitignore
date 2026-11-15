@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.obj
+data/*.bak
+data/*.tmp
+tests/tmpdata/
