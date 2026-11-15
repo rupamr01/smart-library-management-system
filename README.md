@@ -126,6 +126,8 @@ On save, the application writes temporary files first, then replaces the origina
 ## Documentation
 
 - `docs/DSA_ALGORITHMS.md` — every data structure and algorithm used, with file references and complexity.
+- `docs/DSA_USED_AND_WHY.md` — focused explanation of what was used and why, with a printable PDF version.
+- `docs/DSA_USED_AND_WHY.pdf` — printable DSA reference for submission and viva.
 - `docs/DESIGN.md` — architecture, interfaces, algorithms, file formats.
 - `docs/TEST_RESULTS.md` — actual test and manual workflow results.
 - `docs/REPORT.md` — project report with diagrams.
